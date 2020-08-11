@@ -1,16 +1,20 @@
-### Hi there 👋
+```
+  ______   __                      __                  __    ________ 
+ /      \ |  \                    |  \               _/  \  |        \
+|  $$$$$$\| $$  ______    _______ | $$   __         |   $$   \$$$$$$$$
+| $$ __\$$| $$ /      \  /       \| $$  /  \ ______  \$$$$      /  $$ 
+| $$|    \| $$|  $$$$$$\|  $$$$$$$| $$_/  $$|      \  | $$     /  $$  
+| $$ \$$$$| $$| $$  | $$| $$      | $$   $$  \$$$$$$  | $$    /  $$   
+| $$__| $$| $$| $$__/ $$| $$_____ | $$$$$$\          _| $$_  /  $$    
+ \$$    $$| $$ \$$    $$ \$$     \| $$  \$$\        |   $$ \|  $$     
+  \$$$$$$  \$$  \$$$$$$   \$$$$$$$ \$$   \$$         \$$$$$$ \$$      
+```
 
-<!--
-**leftstick/leftstick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hot
 
-Here are some ideas to get you started:
+[![](./g17tti.png)](https://github.com/leftstick/awesome-sd-gun)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=leftstick)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=leftstick&hide=ipynb,html&layout=compact)
