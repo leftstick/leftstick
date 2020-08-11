@@ -12,7 +12,7 @@
 
 ## Hot
 
-[![](./g17tti.png)](https://github.com/leftstick/awesome-sd-gun)
+[![](https://github.com/leftstick/leftstick/raw/master/g17tti.png)](https://github.com/leftstick/awesome-sd-gun)
 
 
 ## Statistics
