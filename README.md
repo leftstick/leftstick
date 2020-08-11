@@ -9,7 +9,7 @@
  \$$    $$| $$ \$$    $$ \$$     \| $$  \$$\        |   $$ \|  $$     
   \$$$$$$  \$$  \$$$$$$   \$$$$$$$ \$$   \$$         \$$$$$$ \$$      
 ```
-<div style="text-align: center;">
+<div align="center">
 <a href="https://github.com/leftstick/awesome-sd-gun">
   <img src="https://github.com/leftstick/leftstick/raw/master/g17tti.png" />
 </a>
