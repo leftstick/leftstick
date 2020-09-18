@@ -10,7 +10,7 @@
   \$$$$$$  \$$  \$$$$$$   \$$$$$$$ \$$   \$$         \$$$$$$ \$$      
 ```
 <div align="center">
-  <img src="https://github.com/leftstick/leftstick/raw/master/killer_innovations.jpg" />
+  <img src="https://github.com/leftstick/leftstick/raw/master/g17tti.png" />
 </div>
 
 
