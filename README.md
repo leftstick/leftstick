@@ -8,7 +8,7 @@
                (__)   (__)        (__)                               (__)    
 ```
 <div align="center">
-  <a href="https://github.com/leftstick/baby-raising-plan" target="_blank"><img src="https://github.com/leftstick/leftstick/raw/master/superdaddy.jpg" /></a>
+  <a href="https://github.com/leftstick/baby-raising-plan" target="_blank"><img src="https://github.com/leftstick/leftstick/raw/master/handmadeworkshop.png" /></a>
 </div>
 
 
